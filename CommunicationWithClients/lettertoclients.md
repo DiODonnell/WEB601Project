@@ -1,0 +1,15 @@
+Dear Donna  and Jessica,
+Thank you for taking the time to discuss the website project and to show me around your gallery. I was really impressed with what you both have brought together in the space – being both visually appealing and highlighting the art pieces in a way that emphasises the motifs and themes.
+As I explained I am a student at NMIT and in the final year of my Bachelor of Information Technology. For the Web development course, I need to build a website for a local business that is interactive for users. I need to complete the website by mid-November and if you are happy with the completed website, it is yours to use as you wish. 
+I approached you with my proposal to build a website because I have seen the transformation of your premises as I walk past on my way to and from NMIT. I noticed that you didn’t have a website displayed on your sign and am keen to hopefully provide a local business with a platform that will add to their business. I have a strong interest in art as well as up-cycling and hope to create a website that reflects your business in the way you have presented it in your gallery.
+From speaking to you both I believe that you are looking for a style that allows the pieces of art to be the “heroes” by providing a background that allows them to stand out and that reflects the styling within the gallery itself. I am not a photographer and as images need to be of very good quality, I would need you to supply me with images that can be added to the site. I understand you showcase different pieces from various artists and designers and believe stories about the various creators as well as yourselves and what you believe your business is providing and what your point of difference is as compared to other similar businesses. It will also be valuable to add the virtual tour to the site. Links to other websites that might also link back to you are invaluable for search engine optimisation – which means your website will come up in a search and will be at the top or near it. I will also need a good quality png of your watermark and will link your Facebook and Instagram sites to the website.
+We spoke of creating different pages reflecting the different types of art, clothing, jewellery, gifts, up-cycling as well as the café. I will also recommend a page that talks about yourselves and your vision for the business as well as profiles of the various contributors.
+I would like to meet with you both again soon to draw up some basic skeletons of each page and what each page will contain. The process of designing and building a website we use is an iterative approach where we make a basic version, test and show it to you and from there decide what changes need to be made. This will happen in three stages with the third stage being the final product ready to go live!
+Again, thank you very much for allowing me to create a website for your business “Tula & Niles – By Design” for my project.
+If you have any questions or any ideas, please do not hesitate to contact me.
+
+Kind Regards,
+
+Di O’Donnell
+
+
