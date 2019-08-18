@@ -1,0 +1,9 @@
+/* fonts */
+
+@font-face {
+    font-family: "Compagnon-Medium";
+    src: url(fonts/Compagnon-medium.otf) format('woff2'),
+         url(fonts/Compagnon-medium.otf) format('woff'),
+         url(fonts/.Compagnon-medium.otf) format('truetype');
+  }
+  
